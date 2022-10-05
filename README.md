@@ -1,8 +1,5 @@
-## Óla! Eu sou o Guilherme Gomes
+## Oiii eu sou o Guilherme Gomes, Estudante do SENAI!
 
-- 🔭 Hoje trabalho com front-end
-- 🌱 Estudando TypeScript
-- 😄 Pronouns: ele/dele
 
 <div align="center">
   <a href="https://github.com/DiamexX">

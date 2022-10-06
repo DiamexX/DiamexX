@@ -1,4 +1,8 @@
-## 𝑶𝒊𝒊𝒊 𝒆𝒖 𝒔𝒐𝒖 𝒐 𝑮𝒖𝒊𝒍𝒉𝒆𝒓𝒎𝒆 𝑮𝒐𝒎𝒆𝒔, 𝑬𝒔𝒕𝒖𝒅𝒂𝒏𝒕𝒆 𝒅𝒐 𝑺𝑬𝑵𝑨𝑰! 💜
+##
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#9400D3height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9400D3&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Guilherme+Gomes;I'm+19+years+old;I+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
 <div align="center">
@@ -17,13 +21,18 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
+
 </br>
 <div> 
   <a href="https://www.youtube.com/channel/UCg2TMMot8WG3sVSrWNLygqg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/guilhermee.gomes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:guilhermeadr23@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/guilhermegomesti/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
+  
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9400D3&height=120&section=footer"/>
+  
 </div>

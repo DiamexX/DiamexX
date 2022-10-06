@@ -1,4 +1,4 @@
-## Oiii eu sou o Guilherme Gomes, Estudante do SENAI!
+## Oiii eu sou o Guilherme Gomes, Estudante do SENAI! 💜
 
 
 <div align="center">
